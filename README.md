@@ -1,2 +1,2 @@
-# ca_shellscritps
+# ca_shellscripts
 Exercice Shell
